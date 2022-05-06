@@ -41,7 +41,6 @@ O sistema consiste em uma [aplicação web](https://github.com/emiliosanches/nlw
 * [TailwindCSS](https://tailwindcss.com) para estilização
 * [HeadlessUI](https://headlessui.dev) para criação de componentes com acessibilidade previamente implementada
 * [Axios](https://axios-http.com/ptbr/) para comunicação com o servidor HTTP
-
 <br>
 
 #### 🎨 Design
