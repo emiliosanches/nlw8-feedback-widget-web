@@ -56,7 +56,8 @@ O protótipo do layout dessa aplicação foi feito pelo figma e pode ser encontr
 VITE_API_URL={URL}
 ```
 * Substitua `{URL}` pela URL local onde seu [server](https://github.com/emiliosanches/nlw8-feedback-widget-server) (back end) está rodando. Ex: `http://localhost:3333`
-* `yarn start` ou `yarn dev`
+* `yarn dev` ou `npm run dev` para iniciar a aplicação em modo de desenvolvimento
+* `yarn build`ou `npm run build` para transpilar o código da aplicação em JavaScript
 <br>
 
 #### 🔗 Repositórios relacionados
