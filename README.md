@@ -11,7 +11,7 @@ O sistema consiste em uma [aplicação web](https://github.com/emiliosanches/nlw
 * Armazenamento de feedbacks recebidos em banco de dados
 * Redirecionamento de feedbacks para endereço de e-mail do administrador da aplicação
 
-#### 💡 Melhorias futuras
+#### 💡 Melhorias futuras (implementadas após o evento)
 * **Web (front end)**:
   - [ ] Seleção de tema light/dark
   - [ ] Dashboard de feedbacks recebidos:
@@ -24,6 +24,10 @@ O sistema consiste em uma [aplicação web](https://github.com/emiliosanches/nlw
   - [ ] Dashboard de feedbacks recebidos:
     - [ ] Autenticação
     - [ ] Endpoint autorizado de listagem de feedbacks
+
+* **Mobile App**
+  - [ ] Seleção de tema light/dark
+  - [ ] Adição de spash screen
 
 ## 🌐 Front end Web
 
