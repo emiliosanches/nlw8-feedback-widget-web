@@ -13,7 +13,7 @@ O sistema consiste em uma [aplicação web](https://github.com/emiliosanches/nlw
 
 #### 💡 Melhorias futuras (implementadas após o evento)
 * **Web (front end)**:
-  - [ ] Seleção de tema light/dark
+  - [x] Seleção de tema light/dark
   - [ ] Dashboard de feedbacks recebidos:
     - [ ] Tela de login
     - [ ] Tela de listagem de feedbacks
